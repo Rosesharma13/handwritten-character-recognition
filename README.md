@@ -1,5 +1,4 @@
 # ✍️ Handwritten Character Recognition using Deep Learning
-## CodeAlpha Internship Task 2 
 
 ---
 
