@@ -141,7 +141,6 @@ pip install -r requirements.txt
 ## 🙌 Acknowledgements
 
 - Dataset: MNIST
-- Developed as part of CodeAlpha Internship
 
 ---
 
